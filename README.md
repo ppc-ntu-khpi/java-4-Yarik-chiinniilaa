@@ -13,7 +13,7 @@
 ### Реалізована діаграма класів
 Діаграма відображає структуру проєкту, де `Tardigrade` успадковує базові властивості від класу `Animal`[cite: 4, 5].
 
-<img src="./images/tardigrade_diagram.png" width="100%" alt="UML Diagram"/>
+<img src="[./images/tardigrade_diagram.png" width="100%" alt="UML Diagram](https://github.com/ppc-ntu-khpi/java-4-Yarik-chiinniilaa/blob/b902695712e6cb44ee77a60237390bd7598530d0/images/tardigrade.svg)"/>
 
 ## Виконані кроки:
 1. **Аналіз спільних рис:** Визначено базові методи для всіх тварин — `eat()` (харчування) та `speak()` (комунікація/звуки)[cite: 4].
