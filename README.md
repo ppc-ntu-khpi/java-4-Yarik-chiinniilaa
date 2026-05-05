@@ -5,7 +5,7 @@
 
 Для цієї роботи я обрав **Тихохода (Tardigrade)** — неймовірну істоту, яка здатна виживати в екстремальних умовах[cite: 5].
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHK8NO6mfIg8GqYEXo8NTbr4vy4A_1wYNEHQ&s width="100%""/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHK8NO6mfIg8GqYEXo8NTbr4vy4A_1wYNEHQ&s" width="100%"/>
 
 ## Опис обраної тварини
 **Тихохід** — це мікроскопічна тварина, відома своєю здатністю до **криптобіозу** (анабіозу). Це стан, у якому метаболізм майже зупиняється, що дозволяє витримувати космічний вакуум, радіацію та критичні температури[cite: 5].
