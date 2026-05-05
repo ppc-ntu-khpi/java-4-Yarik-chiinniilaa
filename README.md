@@ -5,7 +5,7 @@
 
 Для цієї роботи я обрав **Тихохода (Tardigrade)** — неймовірну істоту, яка здатна виживати в екстремальних умовах[cite: 5].
 
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHK8NO6mfIg8GqYEXo8NTbr4vy4A_1wYNEHQ&s](https://media.istockphoto.com/id/859382636/ru/%D1%84%D0%BE%D1%82%D0%BE/tardigrade-%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C-%D0%B2%D0%BE%D0%B4%D1%8B.jpg?s=612x612&w=0&k=20&c=DXU7XWhOP6vfHc6x3pHQGTbGd25Bd_Ex2bfvqutjT7Q=)" width="100%"/>
+<img src="https://media.istockphoto.com/id/859382636/ru/%D1%84%D0%BE%D1%82%D0%BE/tardigrade-%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C-%D0%B2%D0%BE%D0%B4%D1%8B.jpg?s=612x612&w=0&k=20&c=DXU7XWhOP6vfHc6x3pHQGTbGd25Bd_Ex2bfvqutjT7Q=" width="100%"/>
 
 ## Опис обраної тварини
 **Тихохід** — це мікроскопічна тварина, відома своєю здатністю до **криптобіозу** (анабіозу). Це стан, у якому метаболізм майже зупиняється, що дозволяє витримувати космічний вакуум, радіацію та критичні температури[cite: 5].
