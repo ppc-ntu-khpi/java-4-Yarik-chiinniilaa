@@ -1,0 +1,20 @@
+classDiagram
+    class Animal {
+        #String name
+        #int weight
+        +eat() void
+        +speak() void
+        +toString() String
+    }
+    class Predator {
+        +hunt() void
+    }
+    class Tardigrade {
+        -boolean isCryptobiosis
+        +eat() void
+        +speak() void
+        +enterCryptobiosis() void
+    }
+
+    Animal <|-- Predator
+    Animal <|-- Tardigrade
